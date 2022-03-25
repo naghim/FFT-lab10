@@ -1,4 +1,4 @@
-# Labor 11
+# Labor 10
 
 ## OpenGL
 A mai labororán az OpenGL-t fogjuk használni s ezzel fogunk elemenseket megjeleníteni, mozgatni. Az OpenGL (Open Graphics Library) egy részletesen kidolgozott szabvány. Olyan API-t takar, amely segítségével egy egyszerű, szabványos felületen keresztül megvalósítható a grafikus kártya kezelése és a háromdimenziós grafika programozása. Az interfész több ezer különböző függvényhívásból áll, melynek segítségével a programozók szinte közvetlenül vezérelhetik a grafikus kártyát, segítségükkel 3 dimenziós alakzatokat rajzolhatnak ki, és a kirajzolás módját szabályozhatják. Széleskörűen használják  a virtuális valóság létrehozatalában, a tudományos élet különböző területein, és szimulátorok esetében is.
