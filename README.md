@@ -1,4 +1,4 @@
-# Labor 9
+# Labor 10
 
 ## Rajzolás QT-ben
 
