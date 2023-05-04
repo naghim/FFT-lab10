@@ -23,6 +23,8 @@ Az elérhető kitöltési mintákat a [```Qt::BrushStyle```](https://doc.qt.io/q
   b. rajzoljunk egy házat: 
   <p align="center"> <img src="https://i.ibb.co/G3WJKV6/ahouse.png" width=200px> </p>
 
+A pontok megtalálásához használhatjuk a repositoryban található **CursorTracker** projektet, amely futtatásakor az egerünk jelenlegi relatív pozícióját írja ki az alkalmazás ablakához viszonyítva. Bővebb információk, implementálási kérdések megtalálhatóak a projekt forráskódjában.
+
 2. Implementáljunk:
   
   a. egy digitális órát: 
