@@ -18,7 +18,7 @@ Diagramok elkészítéséhez a [Qt Charts](https://doc.qt.io/qt-6/qtcharts-index
 
 3. Az előző feladatot módosítsuk annyiban, hogy a véletlenszerűen kigenerált pontok helyett az aktuális CPU kihasználtságot tüntessük fel. A kihasználtságot a következőképp tudjuk lekérni Windows alatt:
 
-```
+```cpp
 #include <Windows.h>
 
 static float CalculateCPULoad(unsigned long long idleTicks, unsigned long long totalTicks) {
